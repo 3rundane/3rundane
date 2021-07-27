@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dane Gollero
-- 👀 I’m interested in Technology, Mathematics, and Physics
+- 👀 I’m interested in Mathematics, Physics, and Technology.
 - 🌱 I’m currently learning NodeJS to build my own promotional website/blog.
 - 💞️ I’m currently looking for a job in the Software Engineering Industry!
 - 📫 I can be reached at the following email address: 3rundane@gmail.com
