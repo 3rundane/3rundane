@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dane Gollero
-- 👀 I’m interested in Mathematics, Physics, and Technology.
-- 🌱 I’m currently learning SQL and Machine Learning for Data Science
-- 💞️ I’m currently looking for a job in Data Science!
+- 👀 I’m interested in software development and data science. I especially love integrating the two with mathematics and physics.
+- 🌱 I’m currently learning SQL, Machine Learning and Gmail's API for Python
+- 💞️ I’m currently looking for a job in software development or data science!
 - 📫 I can be reached at the following email address: 3rundane@gmail.com
 
 <!---
